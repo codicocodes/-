@@ -1,4 +1,4 @@
-![Static Badge](https://dotfyle.com/plugins/creativenull/efmls-configs-nvim/shield)
+[![Static Badge](https://dotfyle.com/plugins/creativenull/efmls-configs-nvim/shield)](https://dotfyle.com/plugins/creativenull/efmls-configs-nvim)
 
 ![](https://img.shields.io/badge/:badgeContent)
 
